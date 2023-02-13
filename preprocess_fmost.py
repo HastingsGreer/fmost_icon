@@ -27,12 +27,13 @@ for split in ["train", "test"]:
     ds = []
 
     for name in tqdm.tqdm(list(iter(image_paths))[:]):
+        if "SLA" in name:
 
-        image = torch.tensor(np.asarray(itk.imread(data_root + name[:-1])))
+            image = torch.tensor(np.asarray(itk.imread(data_root + name[:-1])))
 
-        ds.append(process(image))
+            ds.append(process(image))
 
-        del image
+            del image
 
     torch.save(ds, f"{footsteps.output_dir}/fmost_192_{split}.trch")
 
