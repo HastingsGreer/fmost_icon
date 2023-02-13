@@ -1,0 +1,16 @@
+15257_red_mm_IRA.nii.gz
+17109_red_mm_SLA.nii.gz
+17302_red_mm_IRA.nii.gz
+17542_red_mm_IRA.nii.gz
+17545_red_mm_IRA.nii.gz
+17781_red_mm_SLA.nii.gz
+17782_red_mm_RSA.nii.gz
+17787_red_mm_RSA.nii.gz
+17788_red_mm_RSA.nii.gz
+18047_red_mm_RSA.nii.gz
+18052_red_mm_RSA.nii.gz
+18053_red_mm_RSA.nii.gz
+182709_red_mm_SLA.nii.gz
+182711_red_mm_SLA.nii.gz
+182712_red_mm_SLA.nii.gz
+182718_red_mm_SLA.nii.gz
